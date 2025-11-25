@@ -1,0 +1,51 @@
+Ecco i nomi con stili diversi da copiare nell'HTML:
+
+1. Adriana Volpe
+<h3 class="partner-name"><span class="name-part thin">Adriana</span><span class="name-part extrabold">VOLPE</span></h3>
+
+2. Annalisa Minetti  
+<h3 class="partner-name"><span class="name-part italic">Annalisa</span><span class="name-part extrabold">MINETTI</span></h3>
+
+3. Pino Insegno
+<h3 class="partner-name"><span class="name-part light">Pino</span><span class="name-part bold">INSEGNO</span></h3>
+
+4. Sonia Peronaci
+<h3 class="partner-name"><span class="name-part regular">Sonia</span><span class="name-part extrabold">PERONACI</span></h3>
+
+5. Alviero Martini
+<h3 class="partner-name"><span class="name-part thin">Alviero</span><span class="name-part extrabold">MARTINI</span></h3>
+
+6. Danilo Iervolino
+<h3 class="partner-name"><span class="name-part italic">Danilo</span><span class="name-part extrabold">IERVOLINO</span></h3>
+
+7. Stefania Lo gatto
+<h3 class="partner-name"><span class="name-part light">Stefania</span><span class="name-part extrabold">LO GATTO</span></h3>
+
+8. Jacopo Mele
+<h3 class="partner-name"><span class="name-part thin">Jacopo</span><span class="name-part bold">MELE</span></h3>
+
+9. Bruno Mascarenhas
+<h3 class="partner-name"><span class="name-part regular">Bruno</span><span class="name-part extrabold">MASCARENHAS</span></h3>
+
+10. Giampaolo Grossi
+<h3 class="partner-name"><span class="name-part italic">Giampaolo</span><span class="name-part extrabold">GROSSI</span></h3>
+
+11. Francesco Magro
+<h3 class="partner-name"><span class="name-part light">Francesco</span><span class="name-part extrabold">MAGRO</span></h3>
+
+12. Michele Montesano
+<h3 class="partner-name"><span class="name-part thin">Michele</span><span class="name-part extrabold">MONTESANO</span></h3>
+
+13. Marco Landi
+<h3 class="partner-name"><span class="name-part regular">Marco</span><span class="name-part extrabold">LANDI</span></h3>
+
+14. Claudio Rossi
+<h3 class="partner-name"><span class="name-part italic">Claudio</span><span class="name-part extrabold">ROSSI</span></h3>
+
+STILI USATI:
+- thin = font-weight 300 + italic
+- light = font-weight 400  
+- regular = font-weight 500
+- italic = font-weight 600 + italic
+- bold = font-weight 700
+- extrabold = font-weight 900 + letter-spacing 1.5px
