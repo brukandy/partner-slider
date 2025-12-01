@@ -407,8 +407,9 @@ body {
     }
 
     .modal-image {
-        width: 100%;
+        width: calc(100% - 60px);
         height: 180px;
+        margin: 0 30px;
     }
 
     .modal-name {
@@ -481,11 +482,13 @@ body {
 
     /* Modal Mobile Small */
     .modal-body {
-        padding: 15px 30px !important;
+        padding: 15px 10px !important;
     }
 
     .modal-image {
+        width: calc(100% - 60px);
         height: 180px;
+        margin: 0 30px;
     }
 
     .modal-name {
