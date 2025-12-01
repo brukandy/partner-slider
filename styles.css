@@ -481,26 +481,26 @@ body {
 
     /* Modal Mobile Small */
     .modal-body {
-        padding: 20px 16px;
+        padding: 15px 10px;
     }
 
     .modal-image {
-        height: 300px;
+        height: 180px;
     }
 
     .modal-name {
-        font-size: 28px;
+        font-size: 18px;
         font-weight: 900;
-        letter-spacing: 1px;
+        letter-spacing: 0.6px;
     }
 
     .modal-role {
-        font-size: 13px;
-        margin-bottom: 16px;
+        font-size: 11px;
+        margin-bottom: 8px;
     }
 
     .modal-bio {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     @keyframes scroll {
