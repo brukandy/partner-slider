@@ -403,7 +403,7 @@ body {
 
     .modal-body {
         flex-direction: column;
-        padding: 15px 10px;
+        padding: 15px 15px;
     }
 
     .modal-image {
@@ -481,7 +481,7 @@ body {
 
     /* Modal Mobile Small */
     .modal-body {
-        padding: 15px 10px;
+        padding: 15px 15px;
     }
 
     .modal-image {
