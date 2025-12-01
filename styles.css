@@ -346,13 +346,14 @@ body {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 768px) and (orientation: portrait) {
     .partners-section {
-        padding: 60px 0;
+        padding: 40px 0;
     }
 
     .header-content {
         padding: 0 20px;
+        margin-bottom: 40px;
     }
 
     .section-title {
@@ -364,12 +365,12 @@ body {
     }
 
     .partner-card {
-        width: 280px;
-        height: 380px;
+        width: 320px;
+        height: 420px;
     }
 
     .partner-info {
-        padding: 24px 18px 18px 18px;
+        padding: 28px 20px 20px 20px;
     }
 
     .partner-name {
@@ -391,7 +392,7 @@ body {
             transform: translateX(0);
         }
         100% {
-            transform: translateX(calc(-280px * 14 - 16px * 14));
+            transform: translateX(calc(-320px * 14 - 16px * 14));
         }
     }
 
